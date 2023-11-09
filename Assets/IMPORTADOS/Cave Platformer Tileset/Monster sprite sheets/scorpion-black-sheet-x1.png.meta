@@ -201,10 +201,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 64
-        width: 16
-        height: 16
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +222,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_1
       rect:
         serializedVersion: 2
-        x: 16
+        x: 18
         y: 64
-        width: 16
-        height: 16
+        width: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +243,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 34
         y: 64
-        width: 16
-        height: 16
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +264,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 50
         y: 64
-        width: 16
-        height: 16
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_4
       rect:
         serializedVersion: 2
-        x: 64
+        x: 66
         y: 64
-        width: 16
-        height: 16
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_5
       rect:
         serializedVersion: 2
-        x: 80
+        x: 81
         y: 64
-        width: 16
-        height: 16
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,10 +327,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_6
       rect:
         serializedVersion: 2
-        x: 0
+        x: 2
         y: 48
-        width: 16
-        height: 16
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,10 +348,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_7
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 48
-        width: 16
-        height: 16
+        width: 13
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +369,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_8
       rect:
         serializedVersion: 2
-        x: 32
+        x: 33
         y: 48
-        width: 16
-        height: 16
+        width: 14
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,10 +390,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_9
       rect:
         serializedVersion: 2
-        x: 48
+        x: 50
         y: 48
-        width: 16
-        height: 16
+        width: 13
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,10 +411,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_10
       rect:
         serializedVersion: 2
-        x: 0
+        x: 2
         y: 32
-        width: 16
-        height: 16
+        width: 44
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_11
       rect:
         serializedVersion: 2
-        x: 16
+        x: 51
         y: 32
-        width: 16
-        height: 16
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,10 +453,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_12
       rect:
         serializedVersion: 2
-        x: 32
+        x: 66
         y: 32
-        width: 16
-        height: 16
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -474,10 +474,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_13
       rect:
         serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
+        x: 3
+        y: 16
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,10 +495,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_14
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 16
-        height: 16
+        x: 18
+        y: 16
+        width: 12
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_15
       rect:
         serializedVersion: 2
-        x: 0
+        x: 33
         y: 16
-        width: 16
-        height: 16
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -537,10 +537,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_16
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
+        x: 3
+        y: 0
+        width: 11
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,10 +558,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_17
       rect:
         serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
+        x: 17
+        y: 0
+        width: 13
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -579,10 +579,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_18
       rect:
         serializedVersion: 2
-        x: 0
+        x: 34
         y: 0
-        width: 16
-        height: 16
+        width: 14
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -600,10 +600,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_19
       rect:
         serializedVersion: 2
-        x: 16
+        x: 50
         y: 0
-        width: 16
-        height: 16
+        width: 30
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -621,10 +621,10 @@ TextureImporter:
       name: scorpion-black-sheet-x1_20
       rect:
         serializedVersion: 2
-        x: 32
+        x: 81
         y: 0
-        width: 16
-        height: 16
+        width: 31
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,94 +638,10 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: scorpion-black-sheet-x1_21
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a4305410000000000800000000000000
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: scorpion-black-sheet-x1_22
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4305410000000000800000000000000
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: scorpion-black-sheet-x1_23
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4305410000000000800000000000000
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: scorpion-black-sheet-x1_24
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05305410000000000800000000000000
-      internalID: 21300048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 813a5e4f48490e740905f44681faf922
     internalID: 0
     vertices: []
     indices: 
@@ -747,10 +663,6 @@ TextureImporter:
       scorpion-black-sheet-x1_19: 21300038
       scorpion-black-sheet-x1_2: 21300004
       scorpion-black-sheet-x1_20: 21300040
-      scorpion-black-sheet-x1_21: 21300042
-      scorpion-black-sheet-x1_22: 21300044
-      scorpion-black-sheet-x1_23: 21300046
-      scorpion-black-sheet-x1_24: 21300048
       scorpion-black-sheet-x1_3: 21300006
       scorpion-black-sheet-x1_4: 21300008
       scorpion-black-sheet-x1_5: 21300010
